@@ -20,7 +20,7 @@ export default class Login extends PureComponent {
         {name: 'QQ', icon: require('../resource/ic_account_qq.png')},
         {name: '微信', icon: require('../resource/ic_account_wechat.png')},
         {name: '微博', icon: require('../resource/ic_account_weibo.png')},
-        {name: '薄荷', icon: require('../resource/ic_account_boohee.png')}
+        {name: '甘肃', icon: require('../resource/ic_account_boohee.png')}
     ]
 
     componentWillMount() {

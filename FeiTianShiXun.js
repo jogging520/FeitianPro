@@ -75,4 +75,4 @@ const styles = StyleSheet.create({
     }
 })
 
-AppRegistry.registerComponent('iShiWuPai', () => Root)
+AppRegistry.registerComponent('FeiTianShiXun', () => Root)

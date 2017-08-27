@@ -4,16 +4,7 @@
 const router = {
     'Splash': require('../pages/Splash'),
     'Login': require('../pages/Login'),
-    'TabBarView': require('../pages/TabBarView'),
-    'Scanner': require('../components/Scanner'),
-
-    // home
-    'Foods': require('../pages/home/Foods'),
-
-    // feed
-    'FeedDetail': require('../pages/feed/FeedDetail'),
-
-    // profile
+    'TabBarView': require('../pages/TabBarView2')
 }
 
 export default router
